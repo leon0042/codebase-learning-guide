@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 学习过程产生的笔记（技能使用时写在被学习的项目里，不该进本仓库）
+.codebase-learning/
+
+# 编辑器和系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
